@@ -10,10 +10,18 @@ LinkBehaviour_DBC21460_CC90_9179_41C7_1BF30DBC5109.source = https://www.facebook
 LinkBehaviour_D89E6B87_CCB7_97B8_41E5_205DFDABB76D.source = https://www.google.com.br/maps/place/Resenha+Club+Barbearia+Flamboyant/@-21.7668478,-41.310201,17z/data=!3m1!4b1!4m5!3m4!1s0xbdd523d456533d:0x53986e80340e97ca!8m2!3d-21.7668478!4d-41.3080123?hl=pt-BR
 LinkBehaviour_DAD47D7D_CCB1_9348_41C8_5AA2AE4C6CB2.source = https://www.instagram.com/resenhaclubbarber/?utm_medium=copy_link
 
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_D69B3C27_CC90_B0F8_41D3_7037CC5C1E3E.text = CLIQUE AQUI
+
 ## Media
 
 ### Audio
 audiores_DC9B6123_C896_3FD1_41E0_B6CA68DB39CB.mp3Url = media/audio_DC5FC25C_C8AA_0277_41E5_EFBFA18E5C8E_pt.mp3
+
+### Image
+imlevel_D2439A3D_CF70_90C8_41A0_C88B9E8FF491.url = media/panorama_C2E7589D_C86E_0EF1_41DD_6F195C9F72A5_HS_zd6u73j1_pt.png
 
 ### Title
 video_D8D4423A_CCF0_B0C9_41E7_9AAF6478406B.label = BROLL BARBER
@@ -21,8 +29,8 @@ panorama_C4A88A0D_C86E_0DD3_41D9_19767F062A98.label = Entrada
 panorama_C2E7589D_C86E_0EF1_41DD_6F195C9F72A5.label = Parte interna
 
 ### Video
-videolevel_D1EA855D_CCB0_934B_41E6_DA3A1CC80CC3.posterURL = media/video_D8D4423A_CCF0_B0C9_41E7_9AAF6478406B_poster_pt.jpg
-videolevel_D1EA855D_CCB0_934B_41E6_DA3A1CC80CC3.url = media/video_D8D4423A_CCF0_B0C9_41E7_9AAF6478406B_pt.mp4
+videolevel_D3E13FE9_CF71_8F48_41D5_CD8DB3CF094F.posterURL = media/video_D8D4423A_CCF0_B0C9_41E7_9AAF6478406B_poster_pt.jpg
+videolevel_D3E13FE9_CF71_8F48_41D5_CD8DB3CF094F.url = media/video_D8D4423A_CCF0_B0C9_41E7_9AAF6478406B_pt.mp4
 
 ## Tour
 
